@@ -1,5 +1,1 @@
-
-# music-docs
-
-This repository contains the sources to the the Music Suite documentation.
-
+This repo has been merged into: https://github.com/music-suite/music-suite
